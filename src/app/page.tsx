@@ -7,6 +7,7 @@ import { FAQs } from "@/components/FAQs";
 import { CallToAction } from "@/components/CallToAction";
 import { Footer } from "@/components/Footer";
 import { Pricing } from "@/components/Pricingdemo";
+import TimeLine from "@/components/Timeline";
 
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
       <Features />
       
       <ProductShowcase />
+      <TimeLine />
       <FAQs />
       <Pricing/>
      
