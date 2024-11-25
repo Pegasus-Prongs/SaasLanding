@@ -6,25 +6,25 @@ function TimeLine() {
 
   const timelineItems = [
     {
-      date: "May, 2020",
+      date: "June, 2021",
       label: "The origin",
       title: "Acme was founded in Milan, Italy",
       content: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus."
     },
     {
-      date: "May, 2021",
+      date: "Sep, 2022",
       label: "The milestone",
       title: "Reached 5K customers",
       content: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus."
     },
     {
-      date: "May, 2022",
+      date: "March, 2023",
       label: "The acquisitions",
       title: "Acquired various companies, inluding Technology Inc.",
       content: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus."
     },
     {
-      date: "May, 2023",
+      date: "Dec, 2024",
       label: "The IPO",
       title: "Acme went public at the New York Stock Exchange",
       content: "Pretium lectus quam id leo. Urna et pharetra pharetra massa massa. Adipiscing enim eu neque aliquam vestibulum morbi blandit cursus risus."
