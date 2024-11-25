@@ -27,7 +27,6 @@ const opacity = useTransform(scrollYProgress, [0, 1], [.3,1]);
           opacity: opacity,
           rotateX: rotateX,
           transformPerspective: "800px",
-
         }}
         >
         <Image src={appScreen}  ref={appImage} alt="app screen" className="mt-14" />
